@@ -1,4 +1,4 @@
-# Smart Resume Builder & Job Application Tracker
+# Smart Resume Builder & Job Application  .
 
 ## Project Overview
 
